@@ -14,6 +14,7 @@ namespace WinFormsApp2
             Application.Run(new Form1());
             Console.WriteLine("hola");
             Console.WriteLine("hola2");
+            Console.WriteLine("hola3");
             
         }
     }
