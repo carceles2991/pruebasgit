@@ -13,6 +13,8 @@ namespace WinFormsApp2
             ApplicationConfiguration.Initialize();
             Application.Run(new Form1());
             Console.WriteLine("hola");
+            Console.WriteLine("hola2");
+            
         }
     }
 }
