@@ -20,6 +20,7 @@ namespace WinFormsApp2
 =======
             Console.WriteLine("hola");
             Console.WriteLine("hola");
+            Console.WriteLine("hola2");
 >>>>>>> primer commit
         }
         
