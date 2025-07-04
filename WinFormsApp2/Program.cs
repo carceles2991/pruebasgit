@@ -13,7 +13,8 @@ namespace WinFormsApp2
             ApplicationConfiguration.Initialize();
             Application.Run(new Form1());
             Console.WriteLine("esto es la ram2");
-            Console.WriteLine("esto es la ram3");
+            Console.WriteLine("esto es la ram2");
+            Console.WriteLine("esto es la ram2");
            
         }
     }
